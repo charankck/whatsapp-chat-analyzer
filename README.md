@@ -102,5 +102,4 @@ Analyzing WhatsApp chats manually is inefficient and time-consuming, especially 
 ## 🚀 How to Run
 
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+https://whatsapp-chat-analyzer-vihea7eupror6urjhnhwya.streamlit.app/
