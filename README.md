@@ -13,7 +13,7 @@ Analyzing WhatsApp chats manually is inefficient and time-consuming, especially 
 
 ![Dashboard](Screenshot(471).png)
 ![Chart](main/screenshot(473).png)
-![Activity map](Screenshot (474).png)
+![Activity map](Screenshot(474).png)
 ## 📂 Data Source
 - Raw WhatsApp chat exported in `.txt` format
 - Dataset size: 50K+ messages
