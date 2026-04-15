@@ -9,7 +9,11 @@ This project is a Python-based WhatsApp Chat Analyzer that transforms raw export
 Analyzing WhatsApp chats manually is inefficient and time-consuming, especially for large datasets. This project aims to automate the process by converting raw chat data into structured insights that reveal user behavior and communication trends.
 
 ---
+## 📸 Screenshots
 
+![Dashboard](screenshot(471).png)
+![Chart](screenshot(473).png)
+![Activity map](screenshot(474).png)
 ## 📂 Data Source
 - Raw WhatsApp chat exported in `.txt` format
 - Dataset size: 50K+ messages
