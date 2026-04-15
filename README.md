@@ -11,7 +11,7 @@ Analyzing WhatsApp chats manually is inefficient and time-consuming, especially 
 ---
 ## 📸 Screenshots
 
-![Dashboard](main/screenshot(471).png)
+![Dashboard](Screenshot(471).png)
 ![Chart](main/screenshot(473).png)
 ![Activity map](main/screenshot(474).png)
 ## 📂 Data Source
